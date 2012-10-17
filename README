@@ -1,0 +1,54 @@
+README
+------
+
+These are the original Quake map files as released by
+John Romero in October 2006.
+
+The original release came along with a couple of more
+files but I have only selected the map files that are
+included with the retail version of Quake.
+
+
+BSP versions
+------------
+
+The BSP versions of these maps are available in the
+'bsp' folder. These have been compiled with Bengt
+Jardrup's modified versions of the Qutils utilities
+by iD Software:
+
+http://user.tninet.se/~xir870k/
+
+
+Texture data
+------------
+
+The texture wads that have been used to compile the
+maps is a fully derivative work from the "Quake
+Revitalization Project":
+
+http://qrp.quakeone.com/
+
+
+The texture data was downscaled to their original
+sizes and color mapped to the Quake palette with the
+help of the ImageMagick application:
+
+http://www.imagemagick.org/
+
+
+Additional notes
+----------------
+
+Compared to the retail version of Quake there are
+a few differences in these map files to be aware of:
+
+E1M2 makes use of a texture named '+1SLIPBOT'. This
+texture is not available in the retail version of
+Quake. It might have been removed or being changed
+to use '+0SLIPBOT' instead.
+
+E2M3 makes use of a texture named 'AZSWITCH4'. This
+texture is not available in the retail version of
+Quake. It might have been removed or being changed
+to use 'AZSWITCH3' instead.
