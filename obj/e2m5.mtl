@@ -77,7 +77,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/metal5_2.jpg
+map_Kd textures/metal5_2_e2m5.jpg
 newmtl wall9_8
 Ka 1 1 1
 Kd 1 1 1

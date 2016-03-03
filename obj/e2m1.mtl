@@ -189,7 +189,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/sky4.jpg
+map_Kd textures/sky4_e2m1.jpg
 newmtl tech05_1
 Ka 1 1 1
 Kd 1 1 1
@@ -493,7 +493,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/plat_top1.jpg
+map_Kd textures/plat_top1_e2m1.jpg
 newmtl edoor01_1
 Ka 1 1 1
 Kd 1 1 1
