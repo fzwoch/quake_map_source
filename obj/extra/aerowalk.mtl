@@ -78,14 +78,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/tech10_2.jpg
-newmtl 
+newmtl unnamed10
 Ka 1 1 1
 Kd 1 1 1
 Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/.jpg
+map_Kd textures/unnamed10.jpg
 newmtl pwall3
 Ka 1 1 1
 Kd 1 1 1
@@ -118,22 +118,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/tech_symb.jpg
-newmtl 
+newmtl unnamed16
 Ka 1 1 1
 Kd 1 1 1
 Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/.jpg
-newmtl 
-Ka 1 1 1
-Kd 1 1 1
-Ks 0 0 0
-Tr 1
-illum 1
-Ns 0
-map_Kd textures/.jpg
+map_Kd textures/unnamed16.jpg
 newmtl tech07_2
 Ka 1 1 1
 Kd 1 1 1
