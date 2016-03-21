@@ -46,6 +46,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/sky1.jpg
+newmtl clip
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/clip.jpg
 newmtl basebutn3
 Ka 1 1 1
 Kd 1 1 1
