@@ -134,6 +134,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/ceiling4.jpg
+newmtl black
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/black.jpg
 newmtl sky4
 Ka 1 1 1
 Kd 1 1 1
@@ -206,6 +214,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/key02_2.jpg
+newmtl trigger
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/trigger.jpg
 newmtl plat_top1
 Ka 1 1 1
 Kd 1 1 1

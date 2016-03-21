@@ -134,6 +134,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/ceiling5.jpg
+newmtl clip
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/clip.jpg
 newmtl +teleport
 Ka 1 1 1
 Kd 1 1 1
@@ -174,6 +182,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/cop3_4.jpg
+newmtl black
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/black.jpg
 newmtl adoor03_3
 Ka 1 1 1
 Kd 1 1 1
@@ -198,6 +214,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/key02_2.jpg
+newmtl trigger
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/trigger.jpg
 newmtl +0floorsw
 Ka 1 1 1
 Kd 1 1 1

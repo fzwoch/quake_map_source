@@ -398,6 +398,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/key01_2.jpg
+newmtl clip
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/clip.jpg
 newmtl tele_top
 Ka 1 1 1
 Kd 1 1 1
@@ -446,6 +454,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/door02_7.jpg
+newmtl trigger
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/trigger.jpg
 newmtl plat_top1
 Ka 1 1 1
 Kd 1 1 1

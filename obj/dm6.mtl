@@ -86,3 +86,11 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/ground1_5.jpg
+newmtl trigger
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/trigger.jpg

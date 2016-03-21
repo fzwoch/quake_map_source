@@ -294,6 +294,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/tech09_3.jpg
+newmtl clip
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/clip.jpg
 newmtl cop3_4
 Ka 1 1 1
 Kd 1 1 1
@@ -550,6 +558,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/metal5_1.jpg
+newmtl trigger
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/trigger.jpg
 newmtl door04_2
 Ka 1 1 1
 Kd 1 1 1

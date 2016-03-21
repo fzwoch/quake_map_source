@@ -1,0 +1,63 @@
+mtllib dm1.mtl
+v 1088 448 64
+v 1152 384 64
+v 1088 384 64
+v 1152 448 64
+v 1152 384 128
+v 1088 384 128
+v 1152 448 128
+v 1088 448 128
+vt 17 8
+vt 17 7
+vt 18 7
+vt 17 8
+vt 18 7
+vt 18 8
+vt 18 3
+vt 18 2
+vt 17 2
+vt 18 3
+vt 17 2
+vt 17 3
+vt 17 7
+vt 17 8
+vt 18 8
+vt 17 7
+vt 18 8
+vt 18 7
+vt 17 3
+vt 17 2
+vt 18 2
+vt 17 3
+vt 18 2
+vt 18 3
+vt 7 3
+vt 7 2
+vt 6 2
+vt 7 3
+vt 6 2
+vt 6 3
+vt 6 3
+vt 6 2
+vt 7 2
+vt 6 3
+vt 7 2
+vt 7 3
+usemtl trigger
+f 1/1 2/3 3/2
+f 1/4 4/6 2/5
+usemtl trigger
+f 5/7 3/9 2/8
+f 5/10 6/12 3/11
+usemtl trigger
+f 6/13 7/15 8/14
+f 6/16 5/18 7/17
+usemtl trigger
+f 8/19 4/21 1/20
+f 8/22 7/24 4/23
+usemtl trigger
+f 7/25 2/27 4/26
+f 7/28 5/30 2/29
+usemtl trigger
+f 6/31 1/33 3/32
+f 6/34 8/36 1/35

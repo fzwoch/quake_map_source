@@ -110,6 +110,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/+teleport.jpg
+newmtl clip
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/clip.jpg
 newmtl arch7
 Ka 1 1 1
 Kd 1 1 1
@@ -134,6 +142,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/sky4.jpg
+newmtl black
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/black.jpg
 newmtl slipbotsd
 Ka 1 1 1
 Kd 1 1 1
@@ -190,6 +206,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/crate0_top.jpg
+newmtl trigger
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/trigger.jpg
 newmtl metal2_5
 Ka 1 1 1
 Kd 1 1 1

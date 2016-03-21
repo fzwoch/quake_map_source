@@ -174,6 +174,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/exit02_2.jpg
+newmtl black
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/black.jpg
 newmtl wall16_7
 Ka 1 1 1
 Kd 1 1 1
@@ -198,6 +206,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/cop3_4.jpg
+newmtl clip
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/clip.jpg
 newmtl wkey02_1
 Ka 1 1 1
 Kd 1 1 1
@@ -246,6 +262,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/+0button.jpg
+newmtl trigger
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/trigger.jpg
 newmtl door05_2
 Ka 1 1 1
 Kd 1 1 1
