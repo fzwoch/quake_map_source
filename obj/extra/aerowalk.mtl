@@ -102,6 +102,14 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/twall2_6.jpg
+newmtl clip
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/clip.jpg
 newmtl pwall2
 Ka 1 1 1
 Kd 1 1 1
@@ -198,3 +206,11 @@ Tr 1
 illum 1
 Ns 0
 map_Kd textures/+teleport.jpg
+newmtl trigger
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+Tr 1
+illum 1
+Ns 0
+map_Kd textures/trigger.jpg
