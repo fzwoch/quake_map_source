@@ -29,7 +29,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/17b.jpg
+map_Kd textures/14.jpg
 newmtl 12
 Ka 1 1 1
 Kd 1 1 1
@@ -45,7 +45,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/72.jpg
+map_Kd textures/92.jpg
 newmtl 07
 Ka 1 1 1
 Kd 1 1 1
@@ -61,7 +61,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/61.jpg
+map_Kd textures/92.jpg
 newmtl a05
 Ka 1 1 1
 Kd 1 1 1
@@ -69,7 +69,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/a05.jpg
+map_Kd textures/71.jpg
 newmtl 71
 Ka 1 1 1
 Kd 1 1 1
@@ -85,7 +85,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/55.jpg
+map_Kd textures/92.jpg
 newmtl 14
 Ka 1 1 1
 Kd 1 1 1
@@ -101,7 +101,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/10.jpg
+map_Kd textures/92.jpg
 newmtl a08
 Ka 1 1 1
 Kd 1 1 1
@@ -165,7 +165,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/64.jpg
+map_Kd textures/92.jpg
 newmtl 50
 Ka 1 1 1
 Kd 1 1 1
@@ -181,7 +181,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/62.jpg
+map_Kd textures/92.jpg
 newmtl a04
 Ka 1 1 1
 Kd 1 1 1
@@ -197,7 +197,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/15.jpg
+map_Kd textures/26.jpg
 newmtl 40
 Ka 1 1 1
 Kd 1 1 1
@@ -205,7 +205,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/40.jpg
+map_Kd textures/92.jpg
 newmtl dec_rckj
 Ka 1 1 1
 Kd 1 1 1
@@ -245,7 +245,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/77.jpg
+map_Kd textures/92.jpg
 newmtl 49
 Ka 1 1 1
 Kd 1 1 1
@@ -253,7 +253,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/49.jpg
+map_Kd textures/50.jpg
 newmtl 52
 Ka 1 1 1
 Kd 1 1 1
@@ -261,7 +261,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/52.jpg
+map_Kd textures/92.jpg
 newmtl a06
 Ka 1 1 1
 Kd 1 1 1
@@ -269,7 +269,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/a06.jpg
+map_Kd textures/92.jpg
 newmtl 13
 Ka 1 1 1
 Kd 1 1 1
@@ -285,7 +285,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/57.jpg
+map_Kd textures/92.jpg
 newmtl 32
 Ka 1 1 1
 Kd 1 1 1
@@ -293,7 +293,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/32.jpg
+map_Kd textures/50.jpg
 newmtl 18
 Ka 1 1 1
 Kd 1 1 1
@@ -301,7 +301,7 @@ Ks 0 0 0
 Tr 1
 illum 1
 Ns 0
-map_Kd textures/18.jpg
+map_Kd textures/19.jpg
 newmtl trigger
 Ka 1 1 1
 Kd 1 1 1
