@@ -1,0 +1,63 @@
+mtllib ultrav.mtl
+v -512 640 512
+v -384 640 640
+v -384 640 512
+v -512 640 640
+v -512 512 512
+v -384 512 512
+v -512 512 640
+v -384 512 640
+vt -8 9
+vt -6 9
+vt -6 11
+vt -8 9
+vt -6 11
+vt -8 11
+vt -8 9
+vt -6 9
+vt -6 11
+vt -8 9
+vt -6 11
+vt -8 11
+vt -6 9
+vt -8 9
+vt -8 11
+vt -6 9
+vt -8 11
+vt -6 11
+vt 10 9
+vt 8 9
+vt 8 11
+vt 10 9
+vt 8 11
+vt 10 11
+vt 8 9
+vt 10 9
+vt 10 11
+vt 8 9
+vt 10 11
+vt 8 11
+vt -6 9
+vt -8 9
+vt -8 11
+vt -6 9
+vt -8 11
+vt -6 11
+usemtl trigger
+f 1/1 2/3 3/2
+f 1/4 4/6 2/5
+usemtl trigger
+f 5/7 3/9 6/8
+f 5/10 1/12 3/11
+usemtl trigger
+f 6/13 7/15 5/14
+f 6/16 8/18 7/17
+usemtl trigger
+f 3/19 8/21 6/20
+f 3/22 2/24 8/23
+usemtl trigger
+f 5/25 4/27 1/26
+f 5/28 7/30 4/29
+usemtl trigger
+f 8/31 4/33 7/32
+f 8/34 2/36 4/35
