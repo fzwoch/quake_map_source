@@ -13,11 +13,10 @@ BSP versions
 ------------
 
 The BSP versions of these maps are available in the
-'bsp' folder. These have been compiled with Bengt
-Jardrup's modified versions of the Qutils utilities
-by iD Software:
+'bsp' folder. These have been compiled with the
+information from here:
 
-http://user.tninet.se/~xir870k/
+https://www.quaddicted.com/tools/map_compilers
 
 
 Texture data
