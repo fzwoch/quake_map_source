@@ -4,7 +4,7 @@ MAP_TEXTURES := $(patsubst %.tga,%.jpg,$(wildcard textures/*.tga))
 MODELS := $(patsubst %.mdl,%.json,$(wildcard mdl/*.mdl))
 MODEL_TEXTURES := $(patsubst %.tga,%.jpg,$(wildcard mdl/textures/*.tga))
 
-all: models model_textures
+all: maps map_textures models model_textures
 
 bsps: $(BSPS)
 
@@ -25,7 +25,7 @@ bsp/%.bsp:%.map
 	convert $< -resize 50% $@
 
 %.json:%.bsp
-	@echo bsp2json $< $@
+	./bsp2json $< $@
 
 %.json:%.mdl
 	./mdl2json $< $@
