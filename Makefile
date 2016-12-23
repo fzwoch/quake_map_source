@@ -1,6 +1,6 @@
 BSPS := $(patsubst %.map,bsp/%.bsp,$(wildcard *.map))
 MAPS := $(patsubst %.bsp,%.json,$(wildcard bsp/*.bsp))
-MAP_TEXTURES := $(patsubst %.tga,%.jpg,$(wildcard textures/*.tga))
+MAP_TEXTURES := $(patsubst %.tga,%.jpg,$(wildcard textures/*.tga) $(wildcard textures/*/*.tga))
 MODELS := $(patsubst %.mdl,%.json,$(wildcard mdl/*.mdl))
 MODEL_TEXTURES := $(patsubst %.tga,%.jpg,$(wildcard mdl/textures/*.tga))
 
